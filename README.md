@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+## My name is Liann 
+I am _18_ years old. I was born in __Russia__ but currently live in __Jordan__. I am currently a senior in highschool in a school that I had attended my entire academic career. Some of my hobbies include:
++ volleyball
++ baking
++ painting
 
+I am looking forward to learning about code and creating a product of my own.  
 <!--
 **liannkhaleel/liannkhaleel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
