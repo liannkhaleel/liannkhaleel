@@ -2,7 +2,7 @@
 
 ## Hi there 👋 My name is Liann 
 ---
-I am _18_ years old. I was born in __Russia__ but currently live in __Jordan__. I am currently a senior in a school that I had attended my entire academic career. My classmates and I are working hard on applications for college, and a lot of the times, it can get pretty stressful. So what I'll do when things start to get a little crazy is sit down and read a good book, watch one of my favorite tv series, or engage in one of my hobbies just to give me some time to get re-energized.  Some of my hobbies include:
+I am _18_ years old. I was born in __Russia__ but currently live in __Jordan__. I am currently a senior in a school that I had attended my entire academic career. My classmates and I are working hard on applications for college, and at times it can get pretty stressful. So what I'll do when things start to get a little crazy is sit down and read a good book, watch one of my favorite tv series, or engage in one of my hobbies just to give me some time to get re-energized.  Some of my hobbies include:
 + volleyball :volleyball:
 + baking :cookie:
 + painting :paintbrush:
